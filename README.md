@@ -1,2 +1,6 @@
-# Task-2-AI-Portfolio-Website
-Created a professional portfolio using Wix ADI and Prompt Engineering without writing code.
+# AI Powered Portfolio Website 🚀
+This project was created using **Wix ADI** and **Prompt Engineering**.
+
+🔗 **Live Link:** [ https://shivashaw5050.wixsite.com/shiwa-kumar-shaw ]
+📄 **Report:** Check the PDF file in this repository.
+
